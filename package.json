@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url /reveal-boilerplate",
+    "build": "parcel build index.html --public-url /combdtm201806",
     "deploy": "yarn build && gh-pages -d dist"
   },
   "devDependencies": {
